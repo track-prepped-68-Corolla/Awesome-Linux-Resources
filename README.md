@@ -9,8 +9,8 @@
 * **[Linux Mint](https://www.linuxmint.com/download.php)** – Good for older hardware
 
 ## The quick start Toolbelt
-* **[TuxMate](https://tuxmate.com)**
 * **[Linutil](https://github.com/ChrisTitusTech/linutil)**
+* **[TuxMate](https://tuxmate.com)**
   
 ## Learning
 * **[Roadmap.sh](https://roadmap.sh/linux)**
