@@ -3,10 +3,10 @@
 ---
 
 ## Recommended Distros
-* **Zorin OS** – The ultimate Windows refugee landing pad.
-* **Bazzite** – The "SteamOS for PC." Gaming, HDR, and Nvidia handled perfectly.
-* **Fedora** – The polished, professional, and modern standard.
-* **Linux Mint** – Good for older hardware
+* **[Zorin OS](https://zorin.com/os/download/)** - The ultimate Windows refugee landing pad.
+* **[Bazzite](https://bazzite.gg/)** – The "SteamOS for PC." Gaming, HDR, and Nvidia handled perfectly.
+* **[Fedora](https://fedoraproject.org/kde/download/)** – The polished, professional, and modern standard.
+* **[Linux Mint](https://www.linuxmint.com/download.php)** – Good for older hardware
 
 ## The quick start Toolbelt
 * **[Linutil (Chris Titus Tech)](https://github.com/ChrisTitusTech/linutil)**
