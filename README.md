@@ -20,9 +20,9 @@
 ## Reference & Cheat Sheets
 * **[Bash Cheat Sheet](https://github.com/lecoupa/awesome-cheatsheets/blob/master/languages%2Fbash.sh)**
 * **[Linux Command Library](https://linuxcommandlibrary.com/)**
-* **[The Arch Wiki](https://wiki.archlinux.org/)** 
+* **[The Arch Wiki](https://wiki.archlinux.org/)**
+* **[Ultimate Guide for Beginner Linux User](https://github.com/get543/linux-beginner-guide/blob/main/Ultimate%20Guide%20For%20Beginner%20Linux%20User.md)**
 
 ## Productivity & Software
 * **[AlternativeTo (Linux)](https://alternativeto.net/platform/linux/)**
 * **[Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)**
-* **[Ultimate Guide for Beginner Linux User](https://github.com/get543/linux-beginner-guide)**
