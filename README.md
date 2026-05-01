@@ -17,15 +17,12 @@
 * **[Linux Journey](https://labex.io/linuxjourney)**
 * **[Introduction to Linux (EdX)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?hl=en-US)**
 
-## 📄 Reference & Cheat Sheets
+## Reference & Cheat Sheets
 * **[Bash Cheat Sheet](https://github.com/lecoupa/awesome-cheatsheets/blob/master/languages%2Fbash.sh)**
 * **[Linux Command Library](https://linuxcommandlibrary.com/)**
 * **[The Arch Wiki](https://wiki.archlinux.org/)** 
 
-## ✍️ Productivity & Software
+## Productivity & Software
 * **[AlternativeTo (Linux)](https://alternativeto.net/platform/linux/)**
 * **[Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)**
 * **[Ultimate Guide for Beginner Linux User](https://github.com/get543/linux-beginner-guide)**
-
----
-*Created for the 90% of PC users who just want their computer to work.*
