@@ -9,18 +9,18 @@
 * **[Linux Mint](https://www.linuxmint.com/download.php)** – Good for older hardware
 
 ## The quick start Toolbelt
-* **[Linutil (Chris Titus Tech)](https://github.com/ChrisTitusTech/linutil)**
 * **[TuxMate](https://tuxmate.com)**
-
+* **[Linutil (Chris Titus Tech)](https://github.com/ChrisTitusTech/linutil)**
+  
 ## Learning
-* **[Roadmap.sh (Linux)](https://roadmap.sh/linux)**
 * **[Linux Journey](https://labex.io/linuxjourney)**
+* **[Roadmap.sh (Linux)](https://roadmap.sh/linux)**
 * **[Introduction to Linux (EdX)](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?hl=en-US)**
 
 ## Reference & Cheat Sheets
+* **[The Arch Wiki](https://wiki.archlinux.org/)**
 * **[Bash Cheat Sheet](https://github.com/lecoupa/awesome-cheatsheets/blob/master/languages%2Fbash.sh)**
 * **[Linux Command Library](https://linuxcommandlibrary.com/)**
-* **[The Arch Wiki](https://wiki.archlinux.org/)**
 * **[Ultimate Guide for Beginner Linux User](https://github.com/get543/linux-beginner-guide/blob/main/Ultimate%20Guide%20For%20Beginner%20Linux%20User.md)**
 
 ## Productivity & Software
