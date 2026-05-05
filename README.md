@@ -11,7 +11,7 @@
 ## The quick start Toolbelt
 * **[Linutil](https://github.com/ChrisTitusTech/linutil)**
 * **[TuxMate](https://tuxmate.com)**
-* **[Diinki Linux beginner's guide video]https://www.youtube.com/watch?v=uXvT7hHJfIE)**
+* **[Diinki Linux beginner's guide video](https://www.youtube.com/watch?v=uXvT7hHJfIE)**
   
 ## Learning
 * **[Roadmap.sh](https://roadmap.sh/linux)**
