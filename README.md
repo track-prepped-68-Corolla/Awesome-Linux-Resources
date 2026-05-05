@@ -20,11 +20,11 @@
 * **[Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?hl=en-US)** – A comprehensive course by The Linux Foundation on edX covering Linux basics, command line, and system administration essentials.
 
 ## Reference & Cheat Sheets
+* **[Explainshell](https://explainshell.com/)** - write down a command line to see the help text that matches each argument.
 * **[The Arch Wiki](https://wiki.archlinux.org/)** – An exceptionally detailed and comprehensive documentation resource for Linux systems. Highly valuable even for non-Arch users due to its depth and accuracy.
 * **[Bash Cheat Sheet](https://github.com/lecoupa/awesome-cheatsheets/blob/master/languages%2Fbash.sh)** – A quick reference guide containing common Bash commands, syntax, and scripting techniques for shell scripting and command-line usage.
 * **[Linux Command Library](https://linuxcommandlibrary.com/)** – A searchable database of Linux commands with descriptions, usage examples, and options for quick command lookups.
 * **[Ultimate Guide for Beginner Linux User](https://github.com/get543/linux-beginner-guide/blob/main/Ultimate%20Guide%20For%20Beginner%20Linux%20User.md)** – A comprehensive markdown guide covering essential Linux concepts, commands, and workflows for users new to the Linux ecosystem.
-* **[Explainshell](https://explainshell.com/)** - write down a command line to see the help text that matches each argument.
 
 ## Productivity & Software
 * **[AlternativeTo](https://alternativeto.net/platform/linux/)** – A platform for discovering Linux alternatives to popular Windows and macOS software, helping you find suitable replacements for your workflow.
