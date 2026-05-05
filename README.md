@@ -16,8 +16,8 @@
 ## Learning
 * **[Roadmap.sh](https://roadmap.sh/linux)** – A structured learning roadmap for Linux that provides a clear path from beginner to advanced, covering essential concepts and best practices.
 * **[Linux Journey](https://labex.io/linuxjourney)** – An interactive, hands-on Linux tutorial platform that teaches Linux fundamentals through practical exercises and real world scenarios.
-* **[Diinki Linux beginner's guide video](https://www.youtube.com/watch?v=uXvT7hHJfIE)** - A quick start guide for complete Linux beginners focused primarily on Zorin ut applicable to other distros.
 * **[Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?hl=en-US)** – A comprehensive course by The Linux Foundation on edX covering Linux basics, command line, and system administration essentials.
+* **[Diinki Linux beginner's guide video](https://www.youtube.com/watch?v=uXvT7hHJfIE)** - A quick start guide for complete Linux beginners focused primarily on Zorin ut applicable to other distros.
 
 ## Reference & Cheat Sheets
 * **[Explainshell](https://explainshell.com/)** - write down a command line to see the help text that matches each argument.
