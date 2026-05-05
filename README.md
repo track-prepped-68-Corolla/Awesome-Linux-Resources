@@ -25,6 +25,7 @@
 * **[Bash Cheat Sheet](https://github.com/lecoupa/awesome-cheatsheets/blob/master/languages%2Fbash.sh)** – A quick reference guide containing common Bash commands, syntax, and scripting techniques for shell scripting and command-line usage.
 * **[Linux Command Library](https://linuxcommandlibrary.com/)** – A searchable database of Linux commands with descriptions, usage examples, and options for quick command lookups.
 * **[Ultimate Guide for Beginner Linux User](https://github.com/get543/linux-beginner-guide/blob/main/Ultimate%20Guide%20For%20Beginner%20Linux%20User.md)** – A comprehensive markdown guide covering essential Linux concepts, commands, and workflows for users new to the Linux ecosystem.
+* **[Linux Security](https://linuxsecurity.com/advisories)** - Linux security advisories so you can check if your system might be compromised.
 
 ## Productivity & Software
 * **[AlternativeTo](https://alternativeto.net/platform/linux/)** – A platform for discovering Linux alternatives to popular Windows and macOS software, helping you find suitable replacements for your workflow.
