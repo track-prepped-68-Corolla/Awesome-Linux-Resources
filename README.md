@@ -21,7 +21,7 @@
 
 ## Reference & Cheat Sheets
 * **[Explainshell](https://explainshell.com/)** - write down a command line to see the help text that matches each argument.
-* **[The Arch Wiki](https://wiki.archlinux.org/)** – An exceptionally detailed and comprehensive documentation resource for Linux systems. Highly valuable even for non-Arch users due to its depth and accuracy.
+* **[The Arch Wiki](https://wiki.archlinux.org/)** – An exceptionally detailed and comprehensive documentation resource for Linux systems. Highly valuable even for non Arch users due to its depth and accuracy.
 * **[Linux Security](https://linuxsecurity.com/advisories)** - Linux security advisories so you can check if your system might be compromised.
 * **[Bash Cheat Sheet](https://github.com/lecoupa/awesome-cheatsheets/blob/master/languages%2Fbash.sh)** – A quick reference guide containing common Bash commands, syntax, and scripting techniques for shell scripting and command-line usage.
 * **[Linux Command Library](https://linuxcommandlibrary.com/)** – A searchable database of Linux commands with descriptions, usage examples, and options for quick command lookups.
